@@ -1,0 +1,6 @@
+site_name: python-extension
+nav:
+    - Home: main.md
+    - Notebook page: index.md
+
+theme: minty
